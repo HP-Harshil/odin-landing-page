@@ -169,6 +169,10 @@ a {
   font-weight: 800;
 }
 
+.text div {
+  margin: 5px;
+}
+
 .white-button {
   font-size: 20px;
   font-weight: 800;
